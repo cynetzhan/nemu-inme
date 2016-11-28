@@ -1,0 +1,164 @@
+*{
+  font-family:'Ubuntu','Segoe UI',sans;
+}
+
+body{
+	background-color: #FFFFFF;
+}
+#cover{
+  background-color: #618500;
+  height:600px;
+  color: #FFFFFF;
+  display:flex;
+}
+#cover>*{
+  padding:90px 20px;
+}
+.judul-page{
+  background:#e7e7e7 url('../cover.png') center;
+  background-repeat:no-repeat;
+  margin-bottom: 0px;
+}
+#slider-temuan{
+  background-color:#a6d32a;
+  height:300px;
+}
+
+#slider-item{
+  background-color:#fff;
+  height:100px;
+  margin:20px 0px;
+}
+
+.center, .center-align{
+  text-align:center;
+}
+
+.logo{
+	height: 32px;
+	margin-top: -5px;
+}
+
+.navbar-fixed-top{
+ background-color: #F07F0F;
+}
+
+.navbar-header{
+ height: 50px;
+}
+
+ul.nav.navbar-nav li a,ul.nav.navbar-nav li a:hover,ul.nav.navbar-nav li a:active,ul.nav.navbar-nav li a:focus{
+ color:#fff;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #F07F0F;
+    background-color: #e7e7e7;
+}
+
+ul.nav.navbar-nav li a:visited{
+	color:#f6f6f6;
+}
+
+.nav li:hover{
+  background-color: #FEE466;
+}
+
+.navbar-default{
+  border:none;
+}
+
+.covercontent{
+  margin-top:250px;
+  width:100%;
+  text-align:center;
+}
+.focus-section{
+ background-color: #F07F0F;
+ color:#fff;
+ padding-right:50px;
+ padding-left:50px;
+ text-align:center;
+}
+.content-section{
+	margin:50px auto;
+}
+.sidecon{
+	padding:10px 20px;
+	width:600px;
+	max-width:100%;
+	margin:0 auto;
+}
+
+[name=pencarian]{
+	margin-bottom:10px;
+}
+
+.btn-default{
+	background-color: #FEE466;
+	border-color: #F07F0F;
+	color: #F07F0F;
+}
+
+.btn-default:hover{
+	background-color: hsla(50,99%,90%,1);
+	border-color: #F07F0F;
+	color: #F07F0F;
+}
+
+.thumbnail{
+	background-color:inherit;
+	border:1px solid #f3f3f3;
+	border-radius:4px;
+	text-align:center;
+	transition: border .2s ease-in-out;
+}
+
+a.thumbnail{
+	color: #F07F0F;
+}
+a.thumbnail:hover, a.thumbnail:active{
+	border-color: #FEE466;
+	background-color: #F07F0F;
+	color:#fff;
+	text-decoration:none;
+}
+
+footer{
+	background-color: #F07F0F;
+	color:#fff;
+	width:100%;
+	padding:20px;
+	margin-top:20px;
+}
+
+footer a, footer a:hover,footer a:active,footer a:visited, footer a:focus{
+	color:#fff;
+}
+
+.label-default{
+	background-color:#fff;
+	color:#a5d229;
+}
+
+#login{
+	position:absolute;
+	z-index:1031;
+	float:right;
+	right:20px;
+	top:80px;
+	background-color:#fff;
+	border:2px solid #a5d229;
+	border-radius:4px;
+	width:200px;
+	padding:20px;
+}
+
+.content-wrapper{
+ margin-top:60px;
+ padding:20px;
+ }
+
+ body > div:nth-child(5) > div > div > div > div.col-sm-4 > a > h2 {
+		color:#000;
+ }

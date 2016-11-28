@@ -1,0 +1,241 @@
+/*tambahan izhan*/
+* {
+font-family:'Ubuntu',sans;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.section-divider{
+  background:#ce3636 url('../pat.png') right;
+  background-size:cover;
+  width:100%;
+  height:80px;
+  max-height:120px;
+  margin:0px;
+  color:#FFF;
+  float:left;
+  display:inline-table;
+}
+
+.section-divider-title{
+  background:#ce3636 url('../pat.png') right;
+  background-size:cover;
+  width:100%;
+  height:80px;
+  max-height:120px;
+  margin:50px 0px;
+  color:#FFF;
+  overflow:hide;
+  display:inline-table;
+}
+div.jumbotron > h3{
+  text-align:center;  
+}
+
+.to-center{
+  text-align:center;
+  margin: 20px auto;
+  display:block;
+}
+
+.fixed-footer{
+  background-color:#ce3636;
+  padding:20px;
+  color:#FFF;
+  position: absolute;
+  bottom:0;
+  width:100%;
+}
+
+.fixed-footer a{
+  color:#FFF;
+}
+
+.footer-link{
+  list-style-type:none;
+  padding:0;
+}
+
+div.container#register {
+  height:600px;
+  max-height:100vh;
+  margin:50px;
+  margin-bottom:250px;
+  overflow:auto;
+  display:inline-table;
+}
+
+.register-form{
+  background-color:#e7e7e7;
+  padding:30px;
+  border-radius:5px;
+}
+
+.btn-red{
+  width:100%;
+  background-color:#ce3636;
+  border-radius:5px;
+  color:#fff;
+}
+
+.btn-red:hover{
+  width:100%;
+  background-color:#fff;
+  border-radius:5px;
+  border-color:#d46b6b;
+  color:#ce3636;
+}
+
+.btn-white{
+  width:100%;
+  background-color:#fff;
+  border-radius:5px;
+  color:#ce3636;
+}
+
+.btn-white:hover{
+  width:100%;
+  background-color:#ce3636;
+  border-radius:5px;
+  border-color:#fff;
+  color:#fff;
+}
+
+#bantu.btn-red{
+  width:50%;
+}
+.form-control:focus {
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px #ce3636;
+  border-color:#d46b6b;
+}
+
+.logo {
+  width:150px;
+}
+
+#sec-bantu{
+  height:500px;
+  margin: 40px;
+  float:left;
+  display:inline-table;
+}
+
+div#cover{
+  background-color:#a6d32a;
+  /*background-image:url('../doodle-freepix.png');
+  background-position:left bottom;
+  background-repeat:repeat-y;
+  background-attachment:fixed;
+  background-size:cover;*/
+  height:700px;
+  max-height:100vh;
+  padding-top:120px;
+}
+
+.logo-cover{
+  width:300px;
+}
+
+h1.description{
+  color:#fff;
+}
+
+div#cover-desc{
+  padding:100px 5px;
+  margin: 0px 40px;
+}
+
+div#form-data{
+    height: 600px;
+    max-height: 100vh;
+    margin: 50px;
+    overflow: auto;
+    display: inline-table;
+}
+
+@media(min-width: 320px){
+  div#form-data{
+    margin-bottom:250px;
+  }
+}
+/*end of tambahan izhan*/
+
+.navbar-fixed-top{
+  background-color: #ce3636;
+  /* width: 100vw; */
+  }
+  /*min-height: 50px;
+}
+.navbar-nav li a {
+  margin-bottom: 0;
+  background-color: #ce3636;
+  color: #fff;
+  z-index: 1000;
+  border: 0;
+  font-size: 18px !important;
+  line-height: 80px !important;
+  letter-spacing: 1px;
+  border-radius: 0px;
+  line-height: 80px;
+  height: 80px;
+  padding-top: 0;
+}
+
+.navbar-form{
+  background-color: #ce3636;
+  border-radius: 0px;
+  line-height: 60px;
+  height: 90px;
+  padding-top: 0;
+}
+
+main.container{
+  background-image: url(img/family.jpg) repeat;
+}
+
+
+.navbar .navbar .navbar-brand {
+  background-color: #F2F2F2;
+  color: #fff !important;
+}
+
+
+.navbar-nav :hover, .navbar-nav .active{
+    font-size: 18px;
+    color: #FA5858 !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+*/
+
+.navbar-nav :hover, .navbar-nav .active{
+    font-size: 18px;
+    color: #FA5858 !important;
+    background-color: #fff !important;
+}
+
+/**
+ * Extra large button extensions. Extends `.btn`.
+ */
+.btn-xlarge {
+    padding: 18px 28px;
+    font-size: 22px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+    }
+.btn-danger{
+background-color:#ce3636;
+}
+

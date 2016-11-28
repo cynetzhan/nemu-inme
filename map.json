@@ -1,0 +1,434 @@
+{
+   "html_attributions" : [ "Cantuman oleh \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "next_page_token" : "CuQB3wAAAET2i5aIX4Ta14QTVlhphdHQcs3O6YVAu8SiiHtquEqQ7Pvua_PN5tYjm4Plny2cwGT1qqdWcoIQBp1k_x3rHQfT7a7w0XfHIMNi0uh6k_ik5Vvz9NyVo5aQa6dsB3WG8rmBFZCT-vF9wAPcZeN7K5xbh5bms1y5lMzTVUkxs0cfFgQ0fmFTs1chHbm4VRY3-6XaN0zcapBPzv-WBlvSO9MiT6zAccKK6NSvnaxC2tgcyV1IctIYzQrungpatjFVSF5IbZXxv1jvKqTyB0H5RNhE7tIpJdz7LQMXi8UZBZLLEhBxHmDhTb6gk6K8hdFlkE4LGhQis09Joc5rxc8D28PATXu_TXVVWQ",
+   "results" : [
+      {
+         "formatted_address" : "Jalan Jend. Gatot Subroto no.3, Riau, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5300532999999999,
+               "lng" : 101.4483038
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df0b48f834b185cb33898f881e6c8c04fad3f015",
+         "name" : "Restoran Anom",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114033272691389910217/photos\"\u003eRico Chandra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAfUTDbSE8WmpYRlXD6Q9jxFv-qUNx1z_H4tYdL-Sy5hKsarnLJkrK5uO0kPiOHIBbErQmBoGjieQguB5EF1brpRkTOGqFxLfZRybcAVoel8-OGJwGqMSQStToUsHzMhQpEhDAS_jpbUu7dfrfJQ0nuCFJGhSkrtnNtNx7GQSqSZYwLx4MzytPXQ",
+               "width" : 3936
+            }
+         ],
+         "place_id" : "ChIJKTEJEBSs1TERqOwykPG7If0",
+         "reference" : "CnRhAAAArY-sRQ1OkpNo-DY-jjuTGkta-W38mUBXCV6x_zafji83AMNRs0oDMfd68brT-nBNufunUC4WVo40I6nI7fexHIHbQqcWmhKh1aDFTq6xOzWlHc3RNbZwuCbMpcpNRxV1HRoHgyBwh4vr-3PdDnnMvhIQunkvMm6S7A-iHxo1FrOPFxoU80VfIrdV69kjjFlzu_EJphwvQgc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Gatot Subroto No. 30, Rintis, Limapuluh, Riau 28113, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5299058999999999,
+               "lng" : 101.4503599
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5fe2f3f3319aa331bc960e762c447484db0c3a5b",
+         "name" : "Restaurant Seafood Apollo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjdYY9g6s1TERMVR_DlsLJJw",
+         "rating" : 4,
+         "reference" : "CnRtAAAAZhUIS3BJ73XOyW3e5724RprCjh210kcbMBCAGWqIR3-OHCnD-OBaiU2xD127tq5C3dnD3NW0Dldm7nrWRZvrkMx2zPcvkJaHGsg6tUmGdcNV5JFQIfc9Z74NBFJA8QWmW69pCttRp9WYmynF-hsydBIQuTD8kgWS8mu7HdlAaHAA4BoUa0nf3pn4H3gyUzCRagZvWotnU5o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Jend. Ahmad Yani No.107, Riau 28125, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5254616,
+               "lng" : 101.4424351
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c329692946282cb3e24029aed005c513c418f98",
+         "name" : "Restoran Baresolok",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjdYY9g6s1TERuMdGNOmAme4",
+         "rating" : 4.1,
+         "reference" : "CnRmAAAAUMKtwx8lZVbWUia8B59PO0LE6rGEXDdFDggn6ndJVSI27EJiAm7mxsS5SLIhBpPg0IL2-gtGiDwTTQJy8Xl95RhKrR-FrDQ4win1cga2e6Nhqja8iPqHGQNFh6cGkuOqfB8UkoKil_O8_96xN7cZcRIQPTVpmHCSf2HX8EJrLjLY1hoU-Tljh-MJMH7Gty0QwlxQBsyKHA4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Tengkerang Bar., Marpoyan Damai, Kota Pekanbaru, Riau 28122, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5048509999999999,
+               "lng" : 101.4331739
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9d43f942fcc4a3d7be46101192b8c99db7343769",
+         "name" : "Tempat Makan",
+         "place_id" : "ChIJC10iOE2p1TEROjIf57IJ4hM",
+         "reference" : "CmRfAAAAL3mlSUjNFc_CNxuz9mlmCQNRtW6fkIHNJA4z6WGUlJbWJ-vbNrsP44SuHL9gIV2h_nnSns6dHpg18bS-yrwWQZEbYBD9oa9k4PUxAJEuPaX7H8A3226dxqcH6BSJGhw8EhC5kQCZUp2C5Fiq2eb6qWSVGhSxgBJ9XspYJaU8sGLodrcQN6PitQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "JL. Jenderal Sudirman, No. 202, Riau 28126, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4779937999999999,
+               "lng" : 101.4551145
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "87c9ab2b2fed697c5281ac891f32eb4167571572",
+         "name" : "RM Pondok Gurih",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJn5vmlbyu1TERF8iNpVEPnJU",
+         "reference" : "CnRjAAAAelJCuh3VokfPHTBYfqFKAge5Zp1U2p5kT2hC4kMkIRR1tIubW5xr6X65inZfqo5xu69_L32ZePazg2ObsdzZA-xP2BOouZgRrB-7LEquGVxjkKM5jSupBAFUl6uagnJafbsBvcRGrDQW24KbZv7_zBIQ8erkqpb1rKJ8GcUvhW6dSxoUkHu0rd7wCRcA8Xaic-vhehaLyNI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Plaza Senapelan Lt. 4, JL. Teuku Umar, Riau, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5325852,
+               "lng" : 101.4480678
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c7fbd7c9eb6c4abdaa8860a310c3f5c8ca89a1d",
+         "name" : "D'Cost - Senapelan Pekanbaru",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJN10RVRKs1TERgn_bMPATawg",
+         "rating" : 3.7,
+         "reference" : "CnRvAAAARlqpz54Mfg5KxuRnZXCbdXvfIXEl0XE865yUZakkeWKsF7kyP9UH3WPhFfwfuFXhAgr8ysTBZKeC_wVg7QcSsJoSkCCQpX3jj3m3gBUHht3yUaVdWkjnI9r1rwnWjrxUCDEvn_HU0oGwKRfXGCLfzhIQDRDt8cofstpM5BTPSKWOCxoUbNOvBwaR7A_IhON3OriGWY735HA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Soekarno Hatta Kav. 148, Pekanbaru, Riau 28294, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4938825,
+               "lng" : 101.4182751
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "230a2fec544d0fa9969812eb7f70a05950ac6d49",
+         "name" : "Hotel Ibis Pekanbaru",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101772307287287560939/photos\"\u003ebudi harto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAYMoUo4HayS-otp15rcQAJ1tiR5rI32EkkYnkz0qpWoJ_R7EI8nYIz9kKln28zJKudKmT7j52ZBN-n54E9-torzq8Fuani6O2FSPwfGfUg8z8KddX8HBbTEOKIo-av1V6EhAJGEKzPmQl02AdmlcWQF4WGhQzkyrIueja3bRk7jxV71SzSmY-Ng",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJR99lTxOs1TER-u1Lgrn9d7I",
+         "rating" : 3.8,
+         "reference" : "CnRoAAAA84v6kNFT07kuUdrR-HjKGPyuOMS9UkXfOaPJJVImq567x4y2xoMz82UmApMfSo3xO8rI6RTSn-RWadk94frj7MnzSC4m5gHIaGNFwUIONsxqDMMxmrUc2EJKMpigxwiALLRRspKBJrMM1Iqr0XL2WRIQKBdPPua1Dp6lPLV8xndX2BoUAMf6J60p-dJadNYpyoRgUYgVmpM",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Jend Sudirman, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4967049999999999,
+               "lng" : 101.4550579
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "194c631e2b1b02656e956054d3a72e32a7374e55",
+         "name" : "Pondok Asam Pedas Baung",
+         "photos" : [
+            {
+               "height" : 3920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113618646098511177125/photos\"\u003eJouleuphi Cardin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAuicdmHgjnZwXDZcD4NpucRLuIcOY4KPIJi13Y7fP6ve0Ev8Efxi9Lu1qfkPPjiWE5ueBPDQG66GGZdR-seyk3h1yRfrfbM5gRHcbXmN0ZQVxzQ27WmzcYuX_HXeXDdJlEhAHXuDVPwYWPAFBLWr5WKFTGhRNWiWbbZHg1IPY596Axb6oqYBo-w",
+               "width" : 2204
+            }
+         ],
+         "place_id" : "ChIJI4gMdcCu1TERSav1_xGjeis",
+         "reference" : "CnRqAAAAnKm2w8jmnxJIiIoyZDrJ0Icbw32bSN_HgfpeAwAOICJH7h1m0zKQ8uWrvOJLxhBRvCPtIEKZx9tucPufzH1W-w49L9wSQI14TSfMVsfCY4-FSZoPulBlaq1168pzjje02KghVy3MosxlcTNWdM97uxIQ1ZY8Pe2Dp_3ySMYe2OykIBoUUYN-mErGeg9idXSpY9wEi_EfKao",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Jendral Sudirman No.123, Mall Pekanbaru Ground Floor Blok C1, Riau 28116, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5313757000000001,
+               "lng" : 101.4481429
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "81eaf290d689bab37a64e5256865aacabde5ca7c",
+         "name" : "Enoki Japanese Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJyV0bUxKs1TERF6borWCetas",
+         "rating" : 4,
+         "reference" : "CnRtAAAAjPkPCAYGk8FIscDkZxccQu-bm15pwTKByCQDki-3OUmTxW1acnSVre1CADgO3d4s63j4bNbzZjEpEa1bq3-Noi-C38PY4SDmMnwf5iRfJcZRppwTuVcdprlZlcnEHiMpMJ3q0NQRV_6s5_25ODUy6RIQxZc0bFdw6gkT8d9npyroJRoUGsJaXJ8bBMeG0pfjje_0iM_Y1Ho",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "JL. Jend. Sudirman, No. 471, Riau, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.505547,
+               "lng" : 101.452083
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ff1da4f70ed64433818440ce965c5485dea9dcdc",
+         "name" : "R. M. Serba Sedap",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJa3HvsLyu1TERjd0J5ZmXeZ4",
+         "reference" : "CnRlAAAAFk-YDquRYMkUXLzZnTThXVVgZ8FJcSZf2AetDfa7z0j_jZWT4ZQHRoxqk6qvq2Z6FYA5UXxO4HvLJL39OSsbeEB0-g9SaA3PSbDxyQESu1R6OWQTiGzEYhhM5S8iICX100a4MOogJveYOLPUcgjhMBIQLdhnCH1MgMAATTfIMuFXWhoUBY4XuG775mH4PSjUjTR6uuIs66k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Jendral sudirman, Riau, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5053968,
+               "lng" : 101.4521739
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c633940a4d10c55ad1d6a943b5975a88f2bc7fbe",
+         "name" : "d'taste bistro",
+         "place_id" : "ChIJX-i1ubyu1TERnU09uKCHr0k",
+         "reference" : "CnRjAAAAZJzWYZluz8S_HuFZmfD4SMLMpWd8D8fAEpTCZlE-kDyjXRXzcII-lI-_rW83qR-qmDmwqhovbBa6wCAPEuELH9k16GyAv5-dLIBK5iPJXql-RzAPWBMc-4Rh1xdqhOR2WZB3wCa4iQ4asPeotFnUjBIQicaAUDBFo36kp0B2AlP-8xoU8thvIxgSIrrL7RlKdYwyDK0yY78",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Jenderal Gatot Subroto No. 13-17, Rumbai, Riau, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5299997,
+               "lng" : 101.4519838
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2065acd29d09e6a7ec19a457a09d01d03019340b",
+         "name" : "Bread Boutique",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111805112511772867960/photos\"\u003eahmad qutub\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAR_hEmT7ABe8HlYE_-xd_IfYULyV2CIPxJAfT0XQMdtvsAm1UtsSJOse7PzSMj9qh1sqc33vPVC3n3HtXHkF40wcoj3YQnsBmHGIQHXeEI0SdpTxK8D-xmhuVyECW75ScEhBy6hp-Lh0HVqfXngM1lxt4GhSaZyIIVkBlofO9ttDsfbvHozlxYw",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJKTEJEBSs1TERG5klJUHhNZc",
+         "reference" : "CnRiAAAA6varMTHrfcgcT-jYOU_6raGnxA4Dppet9quQAvuRoPP1Iai3W9j8ocVH8I0HFHzqvy1SPp_Z1k6pKzZFsoqiD2cOjSPcgYa5u-wp8slEMLiyXWGIJXNHLwwFQPY5zBxn3CxMUO2fMn-j4FEQceg6PRIQPdbZt_Rm70uuFEBsEHrNGxoUEcjN2ZnP6EaZGCrci1lSV9m_zxQ",
+         "types" : [ "bakery", "store", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Riau No. 58, Ciputra Seraya Mall Lt. 3 Unit 8-9, Riau 28154, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5358493000000001,
+               "lng" : 101.4303205
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4eed382be93c5f0e5bfade2f4f77e5f442b21723",
+         "name" : "Es Teler 77",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS0fgDour1TER08j5QyeOPvA",
+         "rating" : 3.5,
+         "reference" : "CmRfAAAA3RZn2pDJIupkTS2Dk_ISuKuR1YxSO0e2TYQ49DFXhEOu8lss9a5_kk7rcbuSbKk7XOmMMzR9YQdDWqCzlJR9DaOg6SggSYpB0qXh-bS0tyY-l1JYJykPr210-nRgLa8kEhAa_7G76AnsaiWWnAQAd7WSGhSmGZJ0CofwlsEFyTmhybt4VP6BgA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Ahmad yani No.47, Riau, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5297288,
+               "lng" : 101.4423062
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9089c7220871e77ed17b78f4e1352d0bfeb3bbf4",
+         "name" : "Pendowo Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJaWVCRQRUABARBWqpd7rYooQ",
+         "reference" : "CnRmAAAAZnc4N4TMPowTFwcDjBR5J2KlVfZ50xzoSKlsCkuZ1oLFy172GCaU0TDgC7l0D1MKYJ7JipDtq93upyjNy-B1yFKIaoJWTXIp4IX_p-7JVshd_5x3XQwBboE9ce5xLMOyxSZEOpMFVO23tAJglMqncxIQMHcXH1_maRviHUZpEerUZxoUmNKazvnyWTat-c7J4qYqIM0lQgk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Soekarno Hatta No.111, Riau, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5311093,
+               "lng" : 101.4199226
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ca4861367c9113724cca6963ba3bcf6d43e065e6",
+         "name" : "Sushi Tei",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJD9lnFyep1TERGfhwonRhBOc",
+         "rating" : 4.6,
+         "reference" : "CmRdAAAA8Am8mCiq3Uyzw3qTI5p9SBNY_yKIIUjvvi7EBcNQ4yn6IYIjPc2Xt2BtjX4pVAIzSMBIpGJG1TdjZoBgqVsXw43fPTcJNiB62Au2fTQQWry0-txw35N9fyEmyJTW118AEhDGdePcSENJDs6zShnlwWUSGhQEMI8noYg6wNykIowCEu9yc5wyyQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Riau No.41A, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5352306,
+               "lng" : 101.438533
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f3bf83b2b1f6541a2e7db6d48f68f38569aeee21",
+         "name" : "Sop Ikan Kian Wee",
+         "place_id" : "ChIJOeGdlnSs1TERnqB3dkMhhyc",
+         "reference" : "CnRkAAAAWHkWh7GF819Q1pkKgXroQwCMLyJAQD109ryX4AxvPIbKbr--whoNtGHy2C_bgZMz_x4sfMzjEX3rG-C4yW_aPzvYOHrh8gwBQ2GMzA6M0f_dGOgMhf17mD6dbLPMb7On1QUb_qxFFZADjGf_hMkRFRIQQxmJPIN9CtEteXc6vy9ZjRoUCPoCPIij1H6A8lUd7HaAktOoO14",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "SKA Mall Pekanbaru Lt 1 Unit 93-98, Komplek Sentra Komersial Arengka, Jl. Soekarno Hatta, Riau 28282, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4996260000000001,
+               "lng" : 101.4180029
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "96b8c8bb49f5e469a9d0a19ce46d00d050e81616",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104173289498811063678/photos\"\u003edanny ALDO\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAgkuDX8FB6t65pb_ruHXdlyhpN0L0sW2BkTRWH7JUqNtDpaBV91RTv7Rv3z9riUUZ4DQMZA1vwIpjvPTInbm3HWX7tfgzkNv13Xfy-qcZPMATN6rX9uue-orqsk-Nb0oYEhDKZRnLG-82iO19FcZ-BncMGhRRWwhkLO6VrzuIl81dErdjdYcNFg",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJ-0jOIiep1TERBAYUox4tTAY",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CmRcAAAALHKQBH5UeSx4T7_DAdnF6yswI937ZTGNu85KQhWB8oTK2aq_DgRlO_IkShP8oZZ9O9mD-zzeQf-hU6zpIy0IfPbWjVy7lbWviC4-F33TQn6oKIcBXAlDSkQF8Wjgn0xaEhDYBsXUAJo8x43XnLR_EVrJGhQnAPnGRsPItFM-Zk1uoBywrY-yXA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Ir. H. Juanda No.99, LimaPuluh, Kota Pekanbaru, Riau 28155, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5333332999999999,
+               "lng" : 101.45
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e42b491a486bb12a779b1081f3b690d2737bb789",
+         "name" : "Mega Ria Restaurant",
+         "place_id" : "ChIJJbn7gXKs1TER6XKfcn-VtE4",
+         "reference" : "CnRmAAAAjtQwfdt58RadfsovEofXmnCnTNxjCnwq2rs4AvI7504cghVl-uZy5PkT0nOW8hCAUuIK6epykCCYiHXJAeCr_N1EUiHEFKF3ChR-Qbq6LLhG_TRiMUmF51KaVPKF_5gvXz4XSFuhPSDbJ-CqU0fcthIQO0b3P24MCH4GdsM__wEEXxoUpw0vsmdFhch-rFaf9vvoZ3O3pAs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Jend. Ahmad Yani No.81, Pekanbaru Kota, Kota Pekanbaru, Riau 28115, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.520222,
+               "lng" : 101.443925
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2c9d2a41abd7ad773188ba871b0d352a11465c2",
+         "name" : "Sky Garden Lounge & Resto Pekanbaru",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 572,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111097670189524052764/photos\"\u003eSky Garden Lounge &amp; Resto Pekanbaru\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAARmHayErvEHRqQVxNyUyS6FtIaM95j8CrI8DCpTbG8_vYWhAMEB5_C9Z2x1IEjBOBdmtoI1OGqXVL14LUhMX8B_L1_3mXukWDrE-GvR01WN14aUY0HDVBrhQgjpu9Q5nsEhDHVZH4np6CqwdioCKir1lKGhSL7qZK-IWEmqZzqQMaM0aD-0x1_A",
+               "width" : 572
+            }
+         ],
+         "place_id" : "ChIJWUbyoQSs1TERueHzAszC3Es",
+         "reference" : "CoQBdgAAACZQHWi2yY-dCal7VRrKxasDFfQt0lTpCReIPY3eP_aW2ED9UR4uHUMXT1upvUyXBoj4SWq91PM7C2GzplY_5F9_fiJD7mfN3MmxjF4AeP0GV8eqWbgXSyLCL7cJU_VtG6G3Q7bygzhU8kX7wTMw-pIuiuuNCCN-I7KGYIrq0JU9EhCF_PePWEQMKDFfy3UTbaYfGhQs3myYlwSzd3quzM6DPwL7U28Www",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Riau No.48 C, Payung Sekaki, Kota Pekanbaru, Riau 28291, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5352053,
+               "lng" : 101.4219373
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e29e24cbfe8e603315674f49549d8028699f5552",
+         "name" : "Rumah Makan Acen Padang",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106684194449317156189/photos\"\u003eDaniel Linwood\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAdMx53h46scYPl_KXK1L3e5qM1gcSE0uTgUL6QldE49Dipcy2RtnwBhYTzrzyG00IPwGfN6QUICBSjgKk9LII27EiVVgc2m07NzrWhD9roWOzXleuu1XNNyiAil1AMAD7EhB5DAMu6o_6cIx9yCwdnmMJGhQV7wzMuyq3FwZ55Wf71ZnAJglctQ",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJBzTtmZKr1TERUi_OHuUpUxs",
+         "reference" : "CnRqAAAA_PD076HGsYIvTdWFhy8hii7i_vnclKLikw-zc-aVP3GLzQTdxcb7mc14141B-XD61KWhAZz6ZneVT2kwr4TqJD3XuEky6shttaR7XagQaSs1Mb5qLID1VOTa1Xqd2QBlTHifIzF12oL6thKmOk4sLxIQKANxbEBy38U61NFo8rg96BoU_RZIxLad97zd7W2CZhTSTPOdr0s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
